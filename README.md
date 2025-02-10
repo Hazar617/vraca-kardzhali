@@ -1,2 +1,2 @@
-# Asenovgrad-Haskovo
+# Vidin-Kardzhali
 VIP
